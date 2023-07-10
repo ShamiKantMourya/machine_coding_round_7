@@ -1,0 +1,38 @@
+.conatiner h1{
+    display: flex;
+    justify-content: center;
+}
+.conatiner h3{
+    display: flex;
+    justify-content: center;
+}
+.continent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    flex-direction: column;
+    border: 1px solid black;
+    margin: 0px 5px 0px 5px;
+}
+.img-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    width: 250px;
+    padding: 5px 5px;
+}
+.img-box img{
+    align-items: center;
+    justify-content: center;
+  
+    height: 180px;
+    width: 180px;
+}
